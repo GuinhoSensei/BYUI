@@ -19,9 +19,9 @@ body {
   }
 
   .home-title {
-    font-family: Poppins, sans-serif;
+    font-family: "Poppins", sans-serif;
     font-size: 2em;
-    margin-top: 10;
+    margin-top: 10px;
   }
 
   h2 {
@@ -91,7 +91,7 @@ body {
     background-color: #ccc;
     color: #344e41;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
@@ -114,7 +114,7 @@ body {
 
   .msg p{
     color: #344e41;
-    padding-bottom: 15px;
+    padding-bottom:.8em;
   }
 
  #hero-img {
@@ -139,7 +139,7 @@ body {
   }
 
   .card_img{
-    border: 10px solid #000000
+    border: 10px solid #ccc
   }
  
 main section img{
