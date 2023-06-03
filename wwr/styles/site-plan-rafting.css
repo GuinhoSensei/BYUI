@@ -9,7 +9,7 @@ Fonts are separated by a & */
   --primary-color: #a3b18a   ;
   --secondary-color: #588157 ;
   --accent1-color: #3a5a40;
-  --accent2-color: 344e41;
+  --accent2-color: #20382c;
 
   /* change the values below to your chosen font(s) */
   --heading-font: Poppins, sans-serif;
@@ -23,7 +23,7 @@ Fonts are separated by a & */
   --paragraph-background-color: #a3b18a  ;
   --nav-link-color: #344e41;
   --nav-background-color: #588157;
-  --nav-hover-link-color: 344e41;
+  --nav-hover-link-color: #344e41;
   --nav-hover-background-color: #a3b18a;
 }
 
