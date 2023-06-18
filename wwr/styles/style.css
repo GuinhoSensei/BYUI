@@ -259,4 +259,16 @@ main section img{
   footer {
       margin-top: 25px;
   }
+
+  /*subpage css*/
+
+  .river-grid{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+  }
+
+  .salmon-card, .desolation-card, .grad-card{
+    margin: 200px 0;
+  }
+
 }
